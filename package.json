@@ -1,0 +1,21 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "teambits default prettier config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teambits/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "teambits"
+  ],
+  "author": "teambits GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teambits/prettier-config/issues"
+  },
+  "homepage": "https://github.com/teambits/prettier-config#readme"
+}
